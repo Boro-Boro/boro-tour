@@ -1,0 +1,2 @@
+C:\Users\TaDuyTan\Desktop\Tours\Tours\obj\Debug\Tours.csprojAssemblyReference.cache
+C:\Users\TaDuyTan\Desktop\Tours\Tours\obj\Debug\Tours.csproj.CoreCompileInputs.cache
